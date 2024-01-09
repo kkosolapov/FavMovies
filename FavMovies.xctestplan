@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "D6287659-E323-4058-BDB1-4A905EDF6FFC",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FavMovies.xcodeproj",
+      "identifier" : "8348F39F2B3BF6AE003EA496",
+      "name" : "FavMovies"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FavMovies.xcodeproj",
+        "identifier" : "8348F3B52B3BF6AF003EA496",
+        "name" : "FavMoviesTests"
+      }
+    }
+  ],
+  "version" : 1
+}
