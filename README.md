@@ -1,7 +1,8 @@
 # FavMovies
 
 Simple one page application where you can add movies to a favorite list.
-Requirements:
+
+## Requirements:
 
 - Movies must have 2 properties: title (string, mandatory) and year (integer,
 mandatory);
